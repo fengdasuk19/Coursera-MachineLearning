@@ -20,3 +20,5 @@ might well
 protege
 dedication
 ready-made
+personnel selection
+aptitude
