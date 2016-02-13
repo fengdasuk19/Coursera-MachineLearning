@@ -93,8 +93,10 @@ nitpick
 plausible
 essentials
 screwdriver
-
-
+fuzzy
+To "nod your way through it" means to pretend to be listening or paying attention, or acting like everything is normal. 
+commission
+quaint
 
 
 
