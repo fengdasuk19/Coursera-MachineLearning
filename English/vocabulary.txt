@@ -90,6 +90,9 @@ admonish
 fizzle out
 get into shape
 nitpick
+plausible
+essentials
+screwdriver
 
 
 
